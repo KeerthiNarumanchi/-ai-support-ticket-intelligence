@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+snowflake-connector-python
+python-dotenv
+fastapi
+uvicorn
+streamlit
+plotly
+pytest
